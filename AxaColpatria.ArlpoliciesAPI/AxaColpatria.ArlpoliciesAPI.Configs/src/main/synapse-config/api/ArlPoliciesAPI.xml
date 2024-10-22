@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api context="/prueba1" name="ArlPoliciesAPI" xmlns="http://ws.apache.org/ns/synapse">
+    <resource faultSequence="ArlPoliciesAPIFaultSequence" inSequence="ArlPolicesPrueba1InSeq" methods="GET" uri-template="/prueba1">
+        <outSequence/>
+    </resource>
+</api>

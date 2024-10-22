@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: ArlPoliciesAPI
+  description: API Definition of ArlPoliciesAPI
+  version: 1.0.0
+servers:
+- url: http://localhost:8290/prueba1
+paths:
+  /prueba1:
+    get:
+      responses:
+        default:
+          description: Default response

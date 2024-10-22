@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="ArlPolicesPrueba1InSeq" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+    <log level="full"/>
+    <payloadFactory media-type="json">
+        <format>{&#xd;
+    "patient": {&#xd;
+        "name": "John Doe",&#xd;
+        "dob": "1940-03-19",&#xd;
+        "ssn": "234-23-525",&#xd;
+        "address": "California",&#xd;
+        "phone": 8770586755,&#xd;
+        "email": "johndoe@gmail.com"&#xd;
+    },&#xd;
+    "doctor": "thomas collins",&#xd;
+    "hospital_id": "grandoaks",&#xd;
+    "hospital": "grand oak community hospital",&#xd;
+    "appointment_date": "2025-04-02"&#xd;
+}</format>
+        <args/>
+    </payloadFactory>
+    <respond/>
+</sequence>

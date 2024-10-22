@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="ArlPoliciesAPI" groupId="com.axa.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/ArlPoliciesAPI.xml</file>
+    </artifact>
+    <artifact name="ArlPoliciesAPI_swagger" groupId="com.axa.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/ArlPoliciesAPI_swagger.yaml</file>
+    </artifact>
+    <artifact name="ArlPoliciesAPI_metadata" groupId="com.axa.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/ArlPoliciesAPI_metadata.yaml</file>
+    </artifact>
+    <artifact name="ArlPolicesPrueba1InSeq" groupId="com.axa.sequence" version="1.0.0" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/sequences/ArlPolicesPrueba1InSeq.xml</file>
+    </artifact>
+    <artifact name="MockEndPoints" groupId="com.axa.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/MockEndPoints.xml</file>
+    </artifact>
+</artifacts>
