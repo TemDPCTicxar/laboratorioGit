@@ -14,4 +14,7 @@
     <artifact name="MockEndPoints" groupId="com.axa.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
         <file>src/main/synapse-config/endpoints/MockEndPoints.xml</file>
     </artifact>
+    <artifact name="ArlPolicesPruebab1InSeq" groupId="com.axa.sequence" version="1.0.0" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/sequences/ArlPolicesPruebab1InSeq.xml</file>
+    </artifact>
 </artifacts>

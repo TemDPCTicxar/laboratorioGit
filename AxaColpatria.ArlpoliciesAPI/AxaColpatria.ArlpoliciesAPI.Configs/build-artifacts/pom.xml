@@ -19,5 +19,6 @@
     <module>metadata/ArlPoliciesAPI_metadata</module>
     <module>sequences/ArlPolicesPrueba1InSeq</module>
     <module>endpoints/MockEndPoints</module>
+    <module>sequences/ArlPolicesPruebab1InSeq</module>
   </modules>
 </project>
