@@ -20,5 +20,6 @@
     <module>sequences/ArlPolicesPrueba1InSeq</module>
     <module>endpoints/MockEndPoints</module>
     <module>sequences/ArlPolicesPruebab1InSeq</module>
+    <module>sequences/ArlPolicesPruebaB2InSeq</module>
   </modules>
 </project>

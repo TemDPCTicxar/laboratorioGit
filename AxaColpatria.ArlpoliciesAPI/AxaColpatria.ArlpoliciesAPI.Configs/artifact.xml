@@ -17,4 +17,7 @@
     <artifact name="ArlPolicesPruebab1InSeq" groupId="com.axa.sequence" version="1.0.0" type="synapse/sequence" serverRole="EnterpriseServiceBus">
         <file>src/main/synapse-config/sequences/ArlPolicesPruebab1InSeq.xml</file>
     </artifact>
+    <artifact name="ArlPolicesPruebaB2InSeq" groupId="com.axa.sequence" version="1.0.0" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/sequences/ArlPolicesPruebaB2InSeq.xml</file>
+    </artifact>
 </artifacts>
