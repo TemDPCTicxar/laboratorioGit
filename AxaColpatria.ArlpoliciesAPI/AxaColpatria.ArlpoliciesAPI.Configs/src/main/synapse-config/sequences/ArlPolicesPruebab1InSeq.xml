@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="ArlPolicesPruebab1InSeq" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+    <log level="full"/>
+    <payloadFactory media-type="json">
+        <format>{&#xd;
+  "numeroDocumento": "52424946",&#xd;
+  "codigoTipoDocumento": "CC"&#xd;
+}</format>
+        <args/>
+    </payloadFactory>
+    <respond/>
+</sequence>
