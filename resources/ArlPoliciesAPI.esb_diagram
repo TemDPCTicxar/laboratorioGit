@@ -2,25 +2,32 @@
 <notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:esb="http:///org/wso2/integrationstudio/eclipse/gmf/esb" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmi:id="_kM50IJCZEe-NeqTFlbzolw" type="Esb" name="ArlPoliciesAPI" measurementUnit="Pixel">
   <children xmi:type="notation:Node" xmi:id="_kyaU8JCZEe-NeqTFlbzolw" type="2001">
     <children xmi:type="notation:DecorationNode" xmi:id="_kyi30JCZEe-NeqTFlbzolw" type="7001">
-      <children xmi:type="notation:Shape" xmi:id="_wPn_IJCZEe-NeqTFlbzolw" type="3668" fontName="Segoe UI">
-        <children xmi:type="notation:BasicCompartment" xmi:id="_wPomMJCZEe-NeqTFlbzolw" type="7044">
-          <children xmi:type="notation:Node" xmi:id="_wPyXMJCZEe-NeqTFlbzolw" type="3669">
-            <styles xmi:type="notation:DescriptionStyle" xmi:id="_wPyXMZCZEe-NeqTFlbzolw"/>
-            <styles xmi:type="notation:FontStyle" xmi:id="_wPyXMpCZEe-NeqTFlbzolw" fontName="Segoe UI"/>
-            <styles xmi:type="notation:LineStyle" xmi:id="_wPyXM5CZEe-NeqTFlbzolw"/>
+      <children xmi:type="notation:Shape" xmi:id="_ddX3sJCyEe-NeqTFlbzolw" type="3668" fontName="Segoe UI">
+        <children xmi:type="notation:BasicCompartment" xmi:id="_ddX3spCyEe-NeqTFlbzolw" type="7044">
+          <children xmi:type="notation:Node" xmi:id="_ddcwMJCyEe-NeqTFlbzolw" type="3669">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_ddcwMZCyEe-NeqTFlbzolw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_ddcwMpCyEe-NeqTFlbzolw" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_ddcwM5CyEe-NeqTFlbzolw"/>
             <element xmi:type="esb:APIResource" href="ArlPoliciesAPI.esb#//@server/@children.0/@resources.0"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wPyXNJCZEe-NeqTFlbzolw" width="300" height="400"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddcwNJCyEe-NeqTFlbzolw" width="300" height="400"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_wQx1sJCZEe-NeqTFlbzolw" type="3669">
-            <styles xmi:type="notation:DescriptionStyle" xmi:id="_wQx1sZCZEe-NeqTFlbzolw"/>
-            <styles xmi:type="notation:FontStyle" xmi:id="_wQx1spCZEe-NeqTFlbzolw" fontName="Segoe UI"/>
-            <styles xmi:type="notation:LineStyle" xmi:id="_wQx1s5CZEe-NeqTFlbzolw"/>
+          <children xmi:type="notation:Node" xmi:id="_ddvrIJCyEe-NeqTFlbzolw" type="3669">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_ddvrIZCyEe-NeqTFlbzolw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_ddvrIpCyEe-NeqTFlbzolw" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_ddvrI5CyEe-NeqTFlbzolw"/>
             <element xmi:type="esb:APIResource" href="ArlPoliciesAPI.esb#//@server/@children.0/@resources.1"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wQx1tJCZEe-NeqTFlbzolw" y="425" width="300" height="400"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddvrJJCyEe-NeqTFlbzolw" y="425" width="300" height="400"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_deAw4JCyEe-NeqTFlbzolw" type="3669">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_deAw4ZCyEe-NeqTFlbzolw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_deAw4pCyEe-NeqTFlbzolw" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_deAw45CyEe-NeqTFlbzolw"/>
+            <element xmi:type="esb:APIResource" href="ArlPoliciesAPI.esb#//@server/@children.0/@resources.2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_deAw5JCyEe-NeqTFlbzolw" y="850" width="300" height="400"/>
           </children>
         </children>
         <element xmi:type="esb:SynapseAPI" href="ArlPoliciesAPI.esb#//@server/@children.0"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wPn_IZCZEe-NeqTFlbzolw" width="640" height="500"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddX3sZCyEe-NeqTFlbzolw" width="640" height="500"/>
       </children>
     </children>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_kya8AJCZEe-NeqTFlbzolw"/>
