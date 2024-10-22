@@ -1,34 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:esb="http:///org/wso2/integrationstudio/eclipse/gmf/esb" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmi:id="_kM50IJCZEe-NeqTFlbzolw" type="Esb" name="ArlPoliciesAPI" measurementUnit="Pixel">
-  <children xmi:type="notation:Node" xmi:id="_kyaU8JCZEe-NeqTFlbzolw" type="2001">
-    <children xmi:type="notation:DecorationNode" xmi:id="_kyi30JCZEe-NeqTFlbzolw" type="7001">
-      <children xmi:type="notation:Shape" xmi:id="_wPn_IJCZEe-NeqTFlbzolw" type="3668" fontName="Segoe UI">
-        <children xmi:type="notation:BasicCompartment" xmi:id="_wPomMJCZEe-NeqTFlbzolw" type="7044">
-          <children xmi:type="notation:Node" xmi:id="_wPyXMJCZEe-NeqTFlbzolw" type="3669">
-            <styles xmi:type="notation:DescriptionStyle" xmi:id="_wPyXMZCZEe-NeqTFlbzolw"/>
-            <styles xmi:type="notation:FontStyle" xmi:id="_wPyXMpCZEe-NeqTFlbzolw" fontName="Segoe UI"/>
-            <styles xmi:type="notation:LineStyle" xmi:id="_wPyXM5CZEe-NeqTFlbzolw"/>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:esb="http:///org/wso2/integrationstudio/eclipse/gmf/esb" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmi:id="_bXeNEJCwEe-drIrFpGwg9A" type="Esb" name="ArlPoliciesAPI" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_b9LiMJCwEe-drIrFpGwg9A" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_b9UFEJCwEe-drIrFpGwg9A" type="7001">
+      <children xmi:type="notation:Shape" xmi:id="_oQ_dMJCwEe-drIrFpGwg9A" type="3668" fontName="Segoe UI">
+        <children xmi:type="notation:BasicCompartment" xmi:id="_oRArUJCwEe-drIrFpGwg9A" type="7044">
+          <children xmi:type="notation:Node" xmi:id="_oRLDYJCwEe-drIrFpGwg9A" type="3669">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_oRLDYZCwEe-drIrFpGwg9A"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_oRLDYpCwEe-drIrFpGwg9A" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_oRLDY5CwEe-drIrFpGwg9A"/>
             <element xmi:type="esb:APIResource" href="ArlPoliciesAPI.esb#//@server/@children.0/@resources.0"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wPyXNJCZEe-NeqTFlbzolw" width="300" height="400"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oRLDZJCwEe-drIrFpGwg9A" width="300" height="400"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_wQx1sJCZEe-NeqTFlbzolw" type="3669">
-            <styles xmi:type="notation:DescriptionStyle" xmi:id="_wQx1sZCZEe-NeqTFlbzolw"/>
-            <styles xmi:type="notation:FontStyle" xmi:id="_wQx1spCZEe-NeqTFlbzolw" fontName="Segoe UI"/>
-            <styles xmi:type="notation:LineStyle" xmi:id="_wQx1s5CZEe-NeqTFlbzolw"/>
+          <children xmi:type="notation:Node" xmi:id="_oRt18JCwEe-drIrFpGwg9A" type="3669">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_oRt18ZCwEe-drIrFpGwg9A"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_oRt18pCwEe-drIrFpGwg9A" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_oRt185CwEe-drIrFpGwg9A"/>
             <element xmi:type="esb:APIResource" href="ArlPoliciesAPI.esb#//@server/@children.0/@resources.1"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wQx1tJCZEe-NeqTFlbzolw" y="425" width="300" height="400"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oRt19JCwEe-drIrFpGwg9A" y="425" width="300" height="400"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oSGQcJCwEe-drIrFpGwg9A" type="3669">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_oSGQcZCwEe-drIrFpGwg9A"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_oSGQcpCwEe-drIrFpGwg9A" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_oSGQc5CwEe-drIrFpGwg9A"/>
+            <element xmi:type="esb:APIResource" href="ArlPoliciesAPI.esb#//@server/@children.0/@resources.2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oSGQdJCwEe-drIrFpGwg9A" y="850" width="300" height="400"/>
           </children>
         </children>
         <element xmi:type="esb:SynapseAPI" href="ArlPoliciesAPI.esb#//@server/@children.0"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wPn_IZCZEe-NeqTFlbzolw" width="640" height="500"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oQ_dMZCwEe-drIrFpGwg9A" width="640" height="500"/>
       </children>
     </children>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_kya8AJCZEe-NeqTFlbzolw"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_kya8AZCZEe-NeqTFlbzolw" fontName="Segoe UI"/>
-    <styles xmi:type="notation:LineStyle" xmi:id="_kya8ApCZEe-NeqTFlbzolw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_b9LiMZCwEe-drIrFpGwg9A"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_b9LiMpCwEe-drIrFpGwg9A" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_b9LiM5CwEe-drIrFpGwg9A"/>
     <element xmi:type="esb:EsbServer" href="ArlPoliciesAPI.esb#//@server"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kya8A5CZEe-NeqTFlbzolw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b9LiNJCwEe-drIrFpGwg9A"/>
   </children>
-  <styles xmi:type="notation:DiagramStyle" xmi:id="_kM50IZCZEe-NeqTFlbzolw"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_bXeNEZCwEe-drIrFpGwg9A"/>
   <element xmi:type="esb:EsbDiagram" href="ArlPoliciesAPI.esb#/"/>
 </notation:Diagram>

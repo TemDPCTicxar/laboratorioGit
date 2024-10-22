@@ -11,3 +11,13 @@ paths:
       responses:
         default:
           description: Default response
+  /pruebab1:
+    get:
+      responses:
+        default:
+          description: Default response
+  /pruebaA1:
+    get:
+      responses:
+        default:
+          description: Default response
