@@ -9,4 +9,7 @@
     <resource faultSequence="ArlPoliciesAPIFaultSequence" inSequence="ArlPolicesPruebaB2InSeq" methods="GET" uri-template="/pruebaB2">
         <outSequence/>
     </resource>
+    <resource faultSequence="ArlPoliciesAPIFaultSequence" inSequence="ArlPolicesPruebaA1InSeq" methods="GET" uri-template="/pruebaA1">
+        <outSequence/>
+    </resource>
 </api>

@@ -17,6 +17,7 @@ paths:
         default:
           description: Default response
   /pruebaB2:
+  /pruebaA1:
     get:
       responses:
         default:
